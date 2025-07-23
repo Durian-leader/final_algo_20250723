@@ -1,0 +1,22 @@
+{
+  "noise": {
+    "target_sec": 7271.972499999998,
+    "selected_sec": 7269.972500000003,
+    "train_sec": 5815.971375,
+    "val_sec": 872.23725,
+    "test_sec": 581.763875,
+    "train_count": 423,
+    "val_count": 25,
+    "test_count": 111
+  },
+  "board": {
+    "target_sec": 7271.972499999998,
+    "selected_sec": 7271.327999999993,
+    "train_sec": 5815.98,
+    "val_sec": 871.684,
+    "test_sec": 583.664,
+    "train_count": 100,
+    "val_count": 11,
+    "test_count": 7
+  }
+}
